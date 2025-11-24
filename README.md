@@ -12,7 +12,7 @@ You can toggle blocking and update blocked domains via extension popup.
 
 Manually:
 
-1. Download latest release from Github
+1. [Download latest release from Github](https://github.com/mathio/brave-block-domains/releases/tag/latest)
 2. Unpack contents of the zip file to a directory (eg. `brave-extension/`)
 3. Go to Brave menu `☰` -> `Extensions` -> `Manage Extensions` and enable `Developer mode` in the top right corner.
 4. Click on `Load unpacked` button and point to `brave-extension/` directory.
