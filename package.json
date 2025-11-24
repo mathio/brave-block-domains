@@ -1,0 +1,13 @@
+{
+  "name": "brave-block-domains",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "",
+  "scripts": {
+    "clean": "rm -rf ./dist",
+    "build-brave": "mkdir ./dist; zip -j dist/brave-extension.zip ./src/*",
+    "build": "yarn clean && yarn build-brave",
+    "dev": "echo 'No development step required'"
+  }
+}
