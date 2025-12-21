@@ -8,6 +8,11 @@ Works in both Brave and other browsers built on Chromium.
 
 ### Brave / Chromium
 
+From Chrome Web Store:
+
+1. go to [Chrome Web Store](https://chromewebstore.google.com/detail/block-domains/aeigagnjpfjbclmhddmidiimjagpahmg)
+2. Click `Add to ...` button
+
 Manually:
 
 1. [Download latest release from Github](https://github.com/mathio/brave-block-domains/releases/tag/latest)
